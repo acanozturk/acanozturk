@@ -2,7 +2,7 @@
 
 # Hi there 👋
 <p>
-  I'm a Ali Can Öztürk, Software Developer from Turkey. I mainly use Java & Spring Boot. 
+  I'm Ali Can Öztürk, Software Developer from Turkey. I mainly use Java & Spring Boot. 
   
   My Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alicanozturk96/)](https://www.linkedin.com/in/alicanozturk96/)
 </p>
